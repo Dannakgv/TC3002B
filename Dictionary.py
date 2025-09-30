@@ -1,3 +1,5 @@
+# Danna Karina Gonzalez Valencia - A00833606
+
 # Dictionary
 class Dictionary:
     def __init__(self):
